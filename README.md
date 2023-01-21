@@ -16,12 +16,22 @@ This program will return **"You have entered strong password."** if the followin
  
  -----------------------------------------
  
+ ### To execute this program, make sure you have install python in your device.
+ Enter this command in terminal to install python in your device.
+ ```
+ sudo apt install python3
+ ```
+ 
  ## To execute the above program in bash terminal. 
  
  ```
- $ git clone https://github.com/adivenkat05/Password-Validator.git
+ git clone https://github.com/adivenkat05/Password-Validator.git
  
- $ cd Password-Validator
+ cd Password-Validator
  
- $ python3 passwordValidation.py
+ python3 passwordValidation.py
  ```
+OR
+```
+git clone https://github.com/adivenkat05/Password-Validator.git && cd Password-Validator && python3 passwordValidation.py
+```
